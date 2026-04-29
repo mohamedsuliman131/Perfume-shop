@@ -7,7 +7,7 @@ The project focuses on displaying products in a clean UI with smooth user experi
 
 ## 🚀 Live Demo 🔗
 
-[https://3tourshop.netlify.app/](https://3tourshop.netlify.app/)
+[Go To Perfume Shop](https://3tourshop.netlify.app/)
 
 ---
 
