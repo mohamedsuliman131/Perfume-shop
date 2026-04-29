@@ -43,3 +43,8 @@ Frontend E-commerce UI (Static Store Front)
 * No backend or database integration
 * Product data handled on the frontend
 * Designed for UI/UX practice and portfolio presentation
+
+
+
+
+
